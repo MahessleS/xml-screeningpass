@@ -1,14 +1,23 @@
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap>
-<loc>https://screeningpass.fr/sitemap-index.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://screeningpass.fr/sitemap-blog.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://screeningpass.fr/sitemap-page_d_arriv_e.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://screeningpass.fr/sitemap-article.xml</loc>
-</sitemap>
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://screeningpass.fr/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://screeningpass.fr/article/stage-etudiant-grandes-ecoles?slug=stage-etudiant-grandes-ecoles</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://screeningpass.fr/article/reussir-entretien-stage?slug=reussir-entretien-stage</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://screeningpass.fr/article/trouver-un-stage-etudiant?slug=trouver-un-stage-etudiant</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://screeningpass.fr/article/screening-processus-grandes-entreprises?slug=screening-processus-grandes-entreprises</loc>
+    <priority>0.7</priority>
+  </url>
+</urlset>
